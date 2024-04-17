@@ -21,7 +21,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-
 ### :man_technologist: About Me :
 I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 - :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
@@ -70,7 +69,8 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :fire: My Stats :
-<div align="center">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
+<div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
